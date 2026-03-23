@@ -6,8 +6,8 @@ This work will be submitted to: "State-dependent reorganization of functional ne
 - [correlation and network](https://github.com/LatifiLab/2P_network_states/blob/main/correlation%20and%20network.ipynb) Modeling, calculating and statistical validation from 2p data to functional networks in three states.
 - [plot_traces_network](./plot_traces_network.ipynb) Plot the heatmap traces and validated network.
 - [modular features](./analyze_modularity.ipynb) Extract and compare modular features among status.
-- [small-world features](./analyze_small worldness features.ipynb) Extract and compare small-world features, including small-world index, characteristic path length and clustering coefficient.
-- [hub selection and features](./analyze_hub selection and features.ipynb) Identifying hub neurons and analyzing their features.
+- [small-world features](https://github.com/LatifiLab/2P_network_states/blob/main/analyze_small%20worldness%20features.ipynb) Extract and compare small-world features, including small-world index, characteristic path length and clustering coefficient.
+- [hub selection and features](https://github.com/LatifiLab/2P_network_states/blob/main/analyze_hub%20selection%20and%20features.ipynb) Identifying hub neurons and analyzing their features.
 - [simulation parts](./simulation/) Containing simulations for the impact of negative edges on graph features and hub identification.
 
 ## Requirements:
