@@ -1,5 +1,6 @@
 # 2P_network_states
-A Jupyter notebook to analyzing the functional networks using 2-Photon Calcium imaging on different states collected in mouse.
+This repository contains Jupyter notebooks to analyze the functional networks using 2-Photon Calcium imaging on different states collected in mouse.
+This work will be submitted to: "State-dependent reorganization of functional network topology in mouse mesoscale cortical networks".
 
 # Corresponding parts:
 - Modeling and validation from correlation to connectivity
